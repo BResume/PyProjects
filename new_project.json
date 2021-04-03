@@ -1,0 +1,29 @@
+[
+    {
+        "DIRECTIORY":"",
+        "PROJECT_NAME":"",
+        "AUTHOR":"",
+        "EMAIL":"",
+        "DESCRIPTION":"",
+        "URL":"",
+        "PROJECT_URLS":"",
+        "PROJECT_VERSION":"",
+        "CLASSIFIERS":"",
+        "PACKAGE_DIRECTORIES":"",
+        "PACKAGES":"",
+        "REQUIRES":"",
+        "README":"",
+        "LICENSE":"",
+        "COMPANY_NAME":"",
+        "PATHS":"",
+        "STATIC_REQUIRES":"",
+        "BUILD_BACKEND":"",
+        "CONTENT_TYPE":"",
+        "WHERE":"",
+        "MAIN_SCRIPT":"",
+        "INIT_SCRIPT":"",
+        "OTHER_MAIN_CLASSES":"",
+        "PROJECT_SCRIPT":"",
+        "Try_Git":true
+    }
+]
